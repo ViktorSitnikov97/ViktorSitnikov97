@@ -16,7 +16,7 @@ I am a responsible and disciplined Java developer. Currently looking for an oppo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,git,gradle,maven,linux,postgres,kafka,rabbitmq,postman,spring,kubernetes,docker,html,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=java,idea,git,gradle,maven,linux,postgres,kafka,rabbitmq,postman,spring,kubernetes,docker,html,bootstrap" />
   </a>
 </p>
 
